@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+    background-color: #888
+}
+
+.container {
+    background-color: #888;
+    max-width: 960px;
+    max-height: 500px;
+    margin: 0 auto;
+    clear: both;
+}
+
+.col-md-4 {
+    width: 33%;
+}
